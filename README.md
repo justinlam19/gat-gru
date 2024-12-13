@@ -1,5 +1,5 @@
-# GAT-GRU
-*A spatio-temporal graph neural network for traffic forecasting. Final project for Yale CPSC 483/583: Deep Learning on Graph-Structured Data (Fall 2024).*
+# Traffic Forecasting With A GAT-GRU Hybrid Architecture
+*A spatio-temporal graph neural network architecture for traffic forecasting. Final project for Yale CPSC 483/583: Deep Learning on Graph-Structured Data (Fall 2024).*
 
 In the interest of reproducibility, the Jupyter notebooks can be found in the `code` directory. The main notebook is `traffic_gat_gru.ipynb`, while the other one, `prediction_analysis.ipynb` includes code for visualizing what the models predict.
 
