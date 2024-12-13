@@ -5,4 +5,4 @@ Traffic forecasting is important to many facets of urban planning, particularly 
 architecture to perform traffic forecasting. The model combines a Graph Attention Network (GAT) with a Gated Recurrent Unit (GRU)
 network to learn both spatial and temporal dependencies. Experiments show that the model can outperform multiple state-of-the-art baselines, highlighting the potential of hybrid attention-based graph convolution and recurrent architectures for traffic forecasting.
 
-In the interest of reproducability, the Jupyter notebooks can be found in the `code` directory. The models were trained on Kaggle, so some filepath references may need to be modified.
+In the interest of reproducability, the Jupyter notebooks can be found in the `code` directory. The models were trained on Kaggle, so some filepath references may need to be modified. All models can be found in the `kaggle/input` directory. The PEMS04 and PEMS08 datasets are also included in that directory.
