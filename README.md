@@ -5,4 +5,4 @@ Traffic forecasting is important to many facets of urban planning, particularly 
 
 In the interest of reproducibility, the Jupyter notebooks can be found in the `code` directory. The main notebook is `traffic_gat_gru.ipynb`, while the other one, `prediction_analysis.ipynb` includes code for visualizing what the models predict.
 
-To view the model and the experimental results, go to `code/traffic_gat_gru.ipynb`.  The model was trained on Kaggle, so some filepath references may need to be modified before it can be successfully run. All model weights can be found in the `kaggle/input` directory. The PEMS04 and PEMS08 datasets are also included in that directory.
+To view the model and the experimental results, go to `code/traffic_gat_gru.ipynb`.  The model was trained on Kaggle, so some filepath references may need to be modified before it can be successfully run. All trained model weights can be found in the `kaggle/input` directory. The PEMS04 and PEMS08 datasets are also included in that directory.
